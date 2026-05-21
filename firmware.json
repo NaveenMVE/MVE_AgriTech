@@ -1,11 +1,8 @@
-{
-  "firmware_versions": [
-    {
-      "hardware_type": "CC1352P",
-      "version": "1.0.0",
-      "image_type": "bim",
-      "description": "Custom App + Stack firmware update for CC1352P via legacy OAD.",
-      "url": "https://raw.githubusercontent.com/NaveenMVE/MVE_AgriTech/main/simple_peripheral_oad_offchip_CC1352P1_LAUNCHXL_tirtos7_ticlang_oad.bin"
-    }
-  ]
-}
+[
+  {
+    "fileName": "simple_peripheral_oad_offchip_CC1352P1_LAUNCHXL_tirtos7_ticlang_oad.bin",
+    "version": "1.0.0+0",
+    "hwType": "CC1352P",
+    "imageType": "bim"
+  }
+]
